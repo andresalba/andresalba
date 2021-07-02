@@ -1,5 +1,7 @@
 ### Hi there 👋
-![](frustrated-computer-baboob.gif)
+## I AM A COMPUTER PROGRAMMER  <br>
+![Monkey Programmer](https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif)
+
 <!--
 **andresalba/andresalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
