@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="Computer man" style="width:100px;height:100px;"></img>
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="Hello fox"></img>
 ## I AM A COMPUTER PROGRAMMER  <br>
 ![Monkey Programmer](https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif)
 ### I am an expert in HTML, CSS, Javascript and C#.
