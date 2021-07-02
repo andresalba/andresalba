@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I AM A COMPUTER PROGRAMMER  <br>
 ![Monkey Programmer](https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif)
-### I am expert on HTML, CSS, Javascript and C#.
+### I am an expert in HTML, CSS, Javascript and C#.
 
 <!--
 **andresalba/andresalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
