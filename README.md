@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" alt="Hello fox"></img>
 ## I AM A COMPUTER PROGRAMMER  <br>
 ![Monkey Programmer](https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif)
-### I am an expert in HTML, CSS, Javascript, React.js, Node.js, GraphQl, Prisma, Easy Peasy and C#.
+### I am an expert in HTML, CSS, Javascript, React.js, React Native, Node.js, GraphQl, Prisma, Easy Peasy, C#, and Next.js.
 
 <!--
 **andresalba/andresalba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
